@@ -348,3 +348,8 @@ source-repository-package
     wallet-api
     datum-keeper-client
     algebra-core
+
+source-repository-package
+    type: git
+    location: https://github.com/astanin/moo
+    tag: dbda5e76ac3b4c72c805ec0cdb9bcdff7bb6247d
